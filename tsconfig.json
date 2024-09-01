@@ -27,7 +27,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "types": ["vitest/globals", "./@types/utility", "node"]
+    "types": ["./@types/utility", "node"]
   },
   "include": ["./src", "./@types/utility.d.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]

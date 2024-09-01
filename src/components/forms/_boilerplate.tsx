@@ -1,4 +1,3 @@
-import React from "react";
 /* eslint-disable @typescript-eslint/no-unsafe-assignment */
 import { LeafDirective } from "mdast-util-directive";
 import {

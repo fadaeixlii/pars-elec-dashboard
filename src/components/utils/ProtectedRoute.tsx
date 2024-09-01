@@ -1,7 +1,6 @@
 import React from "react";
 import { Navigate } from "react-router-dom";
 
-import localStorageHelper from "@/Helpers/localStorageHelper";
 interface ProtectedRoutesProps {
   children: React.ReactNode;
 }

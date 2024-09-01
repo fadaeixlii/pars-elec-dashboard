@@ -1,4 +1,3 @@
-import * as React from "react";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import type { IRoute } from "./Routes";
 import { routes } from "./Routes";

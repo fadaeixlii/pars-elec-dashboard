@@ -281,7 +281,7 @@ export default function EnhancedTable(props: EnhancedTableProps) {
   const [selected, setSelected] = React.useState<(number | string)[]>([]);
 
   const handleRequestSort = (
-    event: React.MouseEvent<unknown>,
+    _event: React.MouseEvent<unknown>,
     property: string
   ) => {
     const isAsc = orderBy === property && order === "asc";
@@ -299,7 +299,7 @@ export default function EnhancedTable(props: EnhancedTableProps) {
   };
 
   const handleClick = (
-    event: React.MouseEvent<unknown>,
+    _event: React.MouseEvent<unknown>,
     id: number | string
   ) => {
     const selectedIndex = selected.indexOf(id);
