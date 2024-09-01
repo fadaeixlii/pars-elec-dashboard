@@ -11,6 +11,7 @@
         "deploy": " vite build && tar -C . -cvzf dist.tar.gz dist && cp dist.tar.gz ../ && git checkout development && cp ../dist.tar.gz . && git add . && git commit -m 'Update' && git push igit development"
     },
     "dependencies": {
+        "@date-io/date-fns": "^3.0.0",
         "@emotion/react": "^11.11.4",
         "@emotion/styled": "^11.11.5",
         "@mdxeditor/editor": "^3.6.1",
@@ -26,6 +27,7 @@
         "bignumber.js": "^9.1.2",
         "clsx": "^2.1.1",
         "crypto-js": "^4.2.0",
+        "date-fns": "^3.6.0",
         "dayjs": "^1.11.11",
         "formik": "^2.4.6",
         "mui-markdown": "^1.1.13",
@@ -42,6 +44,7 @@
         "yup": "^1.4.0"
     },
     "devDependencies": {
+        "@faker-js/faker": "^8.4.1",
         "@types/node": "^20.14.5",
         "@types/react": "^18.2.66",
         "@types/react-dom": "^18.2.22",

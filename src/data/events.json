@@ -1,0 +1,1012 @@
+[
+  {
+    "id": 1,
+    "date": "2023-10-20T02:27:04.861Z",
+    "branchName": "Apt. 212",
+    "branchCode": 52,
+    "eventType": "type1",
+    "inputNumber": 8221383117067467,
+    "userNumber": 8971164270172,
+    "userName": "Ignacio Dicki IV"
+  },
+  {
+    "id": 2,
+    "date": "2024-03-03T15:03:40.531Z",
+    "branchName": "Apt. 475",
+    "branchCode": 52,
+    "eventType": "type3",
+    "inputNumber": 4822699572926141,
+    "userNumber": 8141434064566135,
+    "userName": "Michael Gutkowski III"
+  },
+  {
+    "id": 3,
+    "date": "2024-04-05T13:14:38.874Z",
+    "branchName": "Apt. 250",
+    "branchCode": 93,
+    "eventType": "type2",
+    "inputNumber": 6103674921478964,
+    "userNumber": 6370750691047265,
+    "userName": "Dr. Dean Schumm"
+  },
+  {
+    "id": 4,
+    "date": "2024-04-22T13:00:05.955Z",
+    "branchName": "Suite 807",
+    "branchCode": 144,
+    "eventType": "type2",
+    "inputNumber": 8134527696337526,
+    "userNumber": 8934569447268224,
+    "userName": "Edmond Hessel"
+  },
+  {
+    "id": 5,
+    "date": "2024-07-05T14:02:58.552Z",
+    "branchName": "Suite 304",
+    "branchCode": 15,
+    "eventType": "type1",
+    "inputNumber": 1767092679099365,
+    "userNumber": 3893919801190792,
+    "userName": "Andre Walsh"
+  },
+  {
+    "id": 6,
+    "date": "2023-11-13T07:09:40.482Z",
+    "branchName": "Apt. 294",
+    "branchCode": 120,
+    "eventType": "type3",
+    "inputNumber": 6084507637969796,
+    "userNumber": 7087703181181043,
+    "userName": "Salvador Balistreri"
+  },
+  {
+    "id": 7,
+    "date": "2024-04-19T03:09:24.459Z",
+    "branchName": "Apt. 193",
+    "branchCode": 41,
+    "eventType": "type2",
+    "inputNumber": 691163074795137,
+    "userNumber": 6010475160867743,
+    "userName": "Owen Keebler"
+  },
+  {
+    "id": 8,
+    "date": "2024-08-01T19:33:35.297Z",
+    "branchName": "Suite 135",
+    "branchCode": 112,
+    "eventType": "type3",
+    "inputNumber": 3865555201734101,
+    "userNumber": 8427367106149238,
+    "userName": "Eileen Morar"
+  },
+  {
+    "id": 9,
+    "date": "2024-04-04T15:25:01.954Z",
+    "branchName": "Apt. 775",
+    "branchCode": 54,
+    "eventType": "type1",
+    "inputNumber": 1377201021578492,
+    "userNumber": 4675687233836670,
+    "userName": "Johnnie Murray Jr."
+  },
+  {
+    "id": 10,
+    "date": "2024-05-12T10:01:47.914Z",
+    "branchName": "Suite 699",
+    "branchCode": 12,
+    "eventType": "type2",
+    "inputNumber": 6996815459346397,
+    "userNumber": 8830546266311836,
+    "userName": "Donna Braun"
+  },
+  {
+    "id": 11,
+    "date": "2024-04-12T06:06:04.795Z",
+    "branchName": "Apt. 938",
+    "branchCode": 134,
+    "eventType": "type2",
+    "inputNumber": 5565066829485257,
+    "userNumber": 2527573092006423,
+    "userName": "Dr. Glenn Langosh"
+  },
+  {
+    "id": 12,
+    "date": "2024-07-15T02:43:39.153Z",
+    "branchName": "Suite 751",
+    "branchCode": 69,
+    "eventType": "type3",
+    "inputNumber": 4043210584778953,
+    "userNumber": 5501147106635906,
+    "userName": "Jan Bruen"
+  },
+  {
+    "id": 13,
+    "date": "2023-09-29T23:56:30.595Z",
+    "branchName": "Apt. 167",
+    "branchCode": 116,
+    "eventType": "type2",
+    "inputNumber": 3077575025494928,
+    "userNumber": 4470865383632722,
+    "userName": "Myron McCullough"
+  },
+  {
+    "id": 14,
+    "date": "2024-06-19T14:14:45.192Z",
+    "branchName": "Apt. 599",
+    "branchCode": 29,
+    "eventType": "type2",
+    "inputNumber": 3506854687232357,
+    "userNumber": 3790433856050793,
+    "userName": "Mrs. Angelina Denesik III"
+  },
+  {
+    "id": 15,
+    "date": "2024-04-21T15:18:36.699Z",
+    "branchName": "Suite 264",
+    "branchCode": 46,
+    "eventType": "type3",
+    "inputNumber": 546699473737000,
+    "userNumber": 5300473792186249,
+    "userName": "Essie VonRueden"
+  },
+  {
+    "id": 16,
+    "date": "2023-10-24T21:13:09.077Z",
+    "branchName": "Suite 420",
+    "branchCode": 98,
+    "eventType": "type2",
+    "inputNumber": 8809975449146760,
+    "userNumber": 6990456877705887,
+    "userName": "Cedric Funk-Glover"
+  },
+  {
+    "id": 17,
+    "date": "2024-04-07T06:28:48.910Z",
+    "branchName": "Apt. 254",
+    "branchCode": 64,
+    "eventType": "type3",
+    "inputNumber": 7401027240376465,
+    "userNumber": 1065923138909178,
+    "userName": "John Stark"
+  },
+  {
+    "id": 18,
+    "date": "2024-01-13T12:19:46.624Z",
+    "branchName": "Suite 267",
+    "branchCode": 117,
+    "eventType": "type1",
+    "inputNumber": 2798774095873145,
+    "userNumber": 2883773935542173,
+    "userName": "Carrie Kautzer"
+  },
+  {
+    "id": 19,
+    "date": "2024-05-30T10:33:21.043Z",
+    "branchName": "Suite 482",
+    "branchCode": 147,
+    "eventType": "type3",
+    "inputNumber": 1019287608068148,
+    "userNumber": 1020162252572627,
+    "userName": "Mrs. Nettie Marquardt"
+  },
+  {
+    "id": 20,
+    "date": "2024-08-18T07:33:42.648Z",
+    "branchName": "Apt. 611",
+    "branchCode": 35,
+    "eventType": "type1",
+    "inputNumber": 2168629242860993,
+    "userNumber": 6166462209511417,
+    "userName": "Jody Cormier"
+  },
+  {
+    "id": 21,
+    "date": "2023-09-21T13:30:44.823Z",
+    "branchName": "Apt. 241",
+    "branchCode": 35,
+    "eventType": "type2",
+    "inputNumber": 6438292080056854,
+    "userNumber": 855601595666225,
+    "userName": "Tamara Kautzer"
+  },
+  {
+    "id": 22,
+    "date": "2024-06-14T19:12:59.326Z",
+    "branchName": "Suite 958",
+    "branchCode": 56,
+    "eventType": "type3",
+    "inputNumber": 5982958540627854,
+    "userNumber": 5578983112822464,
+    "userName": "Christina Heller"
+  },
+  {
+    "id": 23,
+    "date": "2023-11-29T17:08:09.209Z",
+    "branchName": "Apt. 477",
+    "branchCode": 145,
+    "eventType": "type3",
+    "inputNumber": 5185046504176024,
+    "userNumber": 6968103785428049,
+    "userName": "Francisco Bernhard"
+  },
+  {
+    "id": 24,
+    "date": "2024-03-11T07:42:12.233Z",
+    "branchName": "Suite 864",
+    "branchCode": 148,
+    "eventType": "type1",
+    "inputNumber": 5606707732791994,
+    "userNumber": 112392175292801,
+    "userName": "Meredith Swaniawski"
+  },
+  {
+    "id": 25,
+    "date": "2023-12-25T02:40:31.134Z",
+    "branchName": "Suite 816",
+    "branchCode": 124,
+    "eventType": "type3",
+    "inputNumber": 5170566661570528,
+    "userNumber": 8104904136689487,
+    "userName": "Philip Murazik"
+  },
+  {
+    "id": 26,
+    "date": "2023-09-06T10:59:53.936Z",
+    "branchName": "Apt. 503",
+    "branchCode": 40,
+    "eventType": "type2",
+    "inputNumber": 5344069274711201,
+    "userNumber": 5334251298240739,
+    "userName": "Ed Kuphal"
+  },
+  {
+    "id": 27,
+    "date": "2024-03-12T02:48:44.460Z",
+    "branchName": "Suite 252",
+    "branchCode": 28,
+    "eventType": "type1",
+    "inputNumber": 4985773636374532,
+    "userNumber": 5414638393366022,
+    "userName": "Jaime Lehner"
+  },
+  {
+    "id": 28,
+    "date": "2024-04-13T13:29:42.621Z",
+    "branchName": "Apt. 344",
+    "branchCode": 78,
+    "eventType": "type1",
+    "inputNumber": 3168308061398071,
+    "userNumber": 3312286199031238,
+    "userName": "Jorge Ruecker"
+  },
+  {
+    "id": 29,
+    "date": "2024-04-19T00:21:24.450Z",
+    "branchName": "Apt. 843",
+    "branchCode": 121,
+    "eventType": "type1",
+    "inputNumber": 1973567890385498,
+    "userNumber": 8623071837595287,
+    "userName": "Jody Goldner"
+  },
+  {
+    "id": 30,
+    "date": "2024-05-24T10:28:42.800Z",
+    "branchName": "Apt. 666",
+    "branchCode": 29,
+    "eventType": "type2",
+    "inputNumber": 5649739358253073,
+    "userNumber": 1489077975956599,
+    "userName": "Dr. Karla Reilly"
+  },
+  {
+    "id": 31,
+    "date": "2024-06-15T21:01:17.304Z",
+    "branchName": "Apt. 721",
+    "branchCode": 89,
+    "eventType": "type3",
+    "inputNumber": 7212527685667409,
+    "userNumber": 1460597557086417,
+    "userName": "Benny Wuckert"
+  },
+  {
+    "id": 32,
+    "date": "2023-10-06T03:37:51.747Z",
+    "branchName": "Apt. 281",
+    "branchCode": 147,
+    "eventType": "type2",
+    "inputNumber": 2404139123027871,
+    "userNumber": 1328053043921484,
+    "userName": "Vicki Rempel"
+  },
+  {
+    "id": 33,
+    "date": "2024-07-21T08:33:29.693Z",
+    "branchName": "Apt. 221",
+    "branchCode": 55,
+    "eventType": "type3",
+    "inputNumber": 8806142501214002,
+    "userNumber": 6034996634913021,
+    "userName": "Francis Schoen"
+  },
+  {
+    "id": 34,
+    "date": "2023-12-17T10:19:27.752Z",
+    "branchName": "Suite 323",
+    "branchCode": 81,
+    "eventType": "type2",
+    "inputNumber": 302406666469146,
+    "userNumber": 7020600736570765,
+    "userName": "Jeannette Considine"
+  },
+  {
+    "id": 35,
+    "date": "2023-12-30T06:01:58.499Z",
+    "branchName": "Apt. 751",
+    "branchCode": 76,
+    "eventType": "type2",
+    "inputNumber": 2615566142198766,
+    "userNumber": 1406093184786548,
+    "userName": "Kathy Grant"
+  },
+  {
+    "id": 36,
+    "date": "2023-11-13T20:23:20.497Z",
+    "branchName": "Suite 540",
+    "branchCode": 137,
+    "eventType": "type1",
+    "inputNumber": 5850448687094022,
+    "userNumber": 1669002649431663,
+    "userName": "Miss Ruby Nolan"
+  },
+  {
+    "id": 37,
+    "date": "2024-03-15T04:41:07.442Z",
+    "branchName": "Suite 186",
+    "branchCode": 141,
+    "eventType": "type2",
+    "inputNumber": 2750303145990527,
+    "userNumber": 422295779576603,
+    "userName": "Juan Grady"
+  },
+  {
+    "id": 38,
+    "date": "2024-01-07T05:55:55.201Z",
+    "branchName": "Apt. 877",
+    "branchCode": 38,
+    "eventType": "type2",
+    "inputNumber": 934760718118108,
+    "userNumber": 2728505006269171,
+    "userName": "Joanne Bayer"
+  },
+  {
+    "id": 39,
+    "date": "2024-07-07T15:55:47.896Z",
+    "branchName": "Suite 506",
+    "branchCode": 118,
+    "eventType": "type3",
+    "inputNumber": 6057195462786908,
+    "userNumber": 4019998608093914,
+    "userName": "Elbert Schoen"
+  },
+  {
+    "id": 40,
+    "date": "2024-02-06T15:54:41.381Z",
+    "branchName": "Apt. 157",
+    "branchCode": 128,
+    "eventType": "type3",
+    "inputNumber": 7055890482155071,
+    "userNumber": 46746638953978,
+    "userName": "Henrietta Lebsack I"
+  },
+  {
+    "id": 41,
+    "date": "2024-06-24T11:59:43.300Z",
+    "branchName": "Suite 405",
+    "branchCode": 52,
+    "eventType": "type1",
+    "inputNumber": 8437625392264963,
+    "userNumber": 2180007745786066,
+    "userName": "Molly Lind V"
+  },
+  {
+    "id": 42,
+    "date": "2024-01-14T01:33:23.526Z",
+    "branchName": "Suite 262",
+    "branchCode": 73,
+    "eventType": "type2",
+    "inputNumber": 8606129974193648,
+    "userNumber": 7465055601990860,
+    "userName": "Jessie Willms"
+  },
+  {
+    "id": 43,
+    "date": "2024-01-02T10:48:32.658Z",
+    "branchName": "Apt. 624",
+    "branchCode": 130,
+    "eventType": "type3",
+    "inputNumber": 1578865039021446,
+    "userNumber": 7146391778567935,
+    "userName": "Alberta Corwin"
+  },
+  {
+    "id": 44,
+    "date": "2024-04-05T02:36:39.190Z",
+    "branchName": "Apt. 434",
+    "branchCode": 86,
+    "eventType": "type1",
+    "inputNumber": 5184118808017407,
+    "userNumber": 5356695094439719,
+    "userName": "Lucy Kessler"
+  },
+  {
+    "id": 45,
+    "date": "2023-10-31T11:53:41.204Z",
+    "branchName": "Suite 134",
+    "branchCode": 95,
+    "eventType": "type1",
+    "inputNumber": 2540671198753897,
+    "userNumber": 6778080880477882,
+    "userName": "Alejandro Krajcik"
+  },
+  {
+    "id": 46,
+    "date": "2023-11-03T20:31:13.304Z",
+    "branchName": "Suite 788",
+    "branchCode": 65,
+    "eventType": "type2",
+    "inputNumber": 3898442779240338,
+    "userNumber": 2766746449252957,
+    "userName": "Kerry Brown DVM"
+  },
+  {
+    "id": 47,
+    "date": "2024-08-08T20:04:38.401Z",
+    "branchName": "Apt. 148",
+    "branchCode": 50,
+    "eventType": "type2",
+    "inputNumber": 8517180492665987,
+    "userNumber": 2960296621260397,
+    "userName": "Blanche Franey"
+  },
+  {
+    "id": 48,
+    "date": "2024-04-09T17:59:41.744Z",
+    "branchName": "Apt. 347",
+    "branchCode": 143,
+    "eventType": "type2",
+    "inputNumber": 3952369889480751,
+    "userNumber": 2411278077996166,
+    "userName": "Felix Johns"
+  },
+  {
+    "id": 49,
+    "date": "2024-02-27T19:01:22.303Z",
+    "branchName": "Apt. 233",
+    "branchCode": 139,
+    "eventType": "type1",
+    "inputNumber": 6598061120033996,
+    "userNumber": 8158744236093429,
+    "userName": "Miss Shari Sipes"
+  },
+  {
+    "id": 50,
+    "date": "2023-12-17T13:32:15.304Z",
+    "branchName": "Suite 561",
+    "branchCode": 137,
+    "eventType": "type3",
+    "inputNumber": 7619244602841582,
+    "userNumber": 8525785723883720,
+    "userName": "Oliver Rice"
+  },
+  {
+    "id": 51,
+    "date": "2023-11-28T17:27:17.379Z",
+    "branchName": "Apt. 391",
+    "branchCode": 39,
+    "eventType": "type3",
+    "inputNumber": 1812400198922303,
+    "userNumber": 1379733896752098,
+    "userName": "Dr. Patty Feest-Spinka"
+  },
+  {
+    "id": 52,
+    "date": "2023-09-13T05:06:36.317Z",
+    "branchName": "Suite 910",
+    "branchCode": 39,
+    "eventType": "type2",
+    "inputNumber": 5873351493242647,
+    "userNumber": 8264981474787811,
+    "userName": "Clark Fadel"
+  },
+  {
+    "id": 53,
+    "date": "2023-12-19T08:33:32.366Z",
+    "branchName": "Apt. 766",
+    "branchCode": 66,
+    "eventType": "type1",
+    "inputNumber": 3852241291754395,
+    "userNumber": 132255969118436,
+    "userName": "Sophie Hammes"
+  },
+  {
+    "id": 54,
+    "date": "2024-01-25T02:09:33.486Z",
+    "branchName": "Suite 530",
+    "branchCode": 129,
+    "eventType": "type2",
+    "inputNumber": 3669190800640766,
+    "userNumber": 2553951212465830,
+    "userName": "Elvira Watsica"
+  },
+  {
+    "id": 55,
+    "date": "2023-12-30T12:01:49.472Z",
+    "branchName": "Suite 284",
+    "branchCode": 119,
+    "eventType": "type2",
+    "inputNumber": 1528952318110508,
+    "userNumber": 4451208356411352,
+    "userName": "Shelia Goyette"
+  },
+  {
+    "id": 56,
+    "date": "2024-04-26T22:00:06.728Z",
+    "branchName": "Apt. 958",
+    "branchCode": 114,
+    "eventType": "type1",
+    "inputNumber": 8316075370425274,
+    "userNumber": 3055182561285446,
+    "userName": "Walter Ward"
+  },
+  {
+    "id": 57,
+    "date": "2023-09-26T12:38:12.776Z",
+    "branchName": "Suite 805",
+    "branchCode": 77,
+    "eventType": "type2",
+    "inputNumber": 6224722528614069,
+    "userNumber": 4239410948740019,
+    "userName": "Miss Lorene Robel"
+  },
+  {
+    "id": 58,
+    "date": "2024-04-02T17:16:36.465Z",
+    "branchName": "Suite 512",
+    "branchCode": 24,
+    "eventType": "type3",
+    "inputNumber": 7831640541887953,
+    "userNumber": 589525555233429,
+    "userName": "Olga Upton"
+  },
+  {
+    "id": 59,
+    "date": "2023-12-09T10:01:35.253Z",
+    "branchName": "Apt. 759",
+    "branchCode": 79,
+    "eventType": "type2",
+    "inputNumber": 1920044762923408,
+    "userNumber": 8403223549380079,
+    "userName": "Mrs. Mindy Rath"
+  },
+  {
+    "id": 60,
+    "date": "2023-12-23T23:50:46.590Z",
+    "branchName": "Apt. 348",
+    "branchCode": 101,
+    "eventType": "type2",
+    "inputNumber": 5192678862386761,
+    "userNumber": 241311679437209,
+    "userName": "Kelly Hoeger"
+  },
+  {
+    "id": 61,
+    "date": "2024-04-07T12:55:38.438Z",
+    "branchName": "Apt. 564",
+    "branchCode": 148,
+    "eventType": "type1",
+    "inputNumber": 5898008231494758,
+    "userNumber": 7343510068056451,
+    "userName": "Vera Pouros"
+  },
+  {
+    "id": 62,
+    "date": "2024-07-10T09:11:42.152Z",
+    "branchName": "Suite 856",
+    "branchCode": 120,
+    "eventType": "type3",
+    "inputNumber": 1799124339668481,
+    "userNumber": 3109462750133692,
+    "userName": "Donnie Schaden"
+  },
+  {
+    "id": 63,
+    "date": "2024-08-19T01:39:39.515Z",
+    "branchName": "Apt. 273",
+    "branchCode": 105,
+    "eventType": "type2",
+    "inputNumber": 7828663896768284,
+    "userNumber": 7315615280979356,
+    "userName": "Sherman Cummerata"
+  },
+  {
+    "id": 64,
+    "date": "2024-04-05T19:20:50.258Z",
+    "branchName": "Suite 438",
+    "branchCode": 76,
+    "eventType": "type2",
+    "inputNumber": 2875605855658791,
+    "userNumber": 1728209570518210,
+    "userName": "Clifton Mante V"
+  },
+  {
+    "id": 65,
+    "date": "2024-02-05T23:54:03.020Z",
+    "branchName": "Apt. 969",
+    "branchCode": 85,
+    "eventType": "type2",
+    "inputNumber": 6850801790330672,
+    "userNumber": 1014248065829475,
+    "userName": "Laura Homenick"
+  },
+  {
+    "id": 66,
+    "date": "2024-03-06T14:51:45.442Z",
+    "branchName": "Apt. 260",
+    "branchCode": 84,
+    "eventType": "type2",
+    "inputNumber": 7704154409678107,
+    "userNumber": 1564569146006458,
+    "userName": "Duane Rutherford III"
+  },
+  {
+    "id": 67,
+    "date": "2024-01-03T10:05:52.187Z",
+    "branchName": "Suite 397",
+    "branchCode": 98,
+    "eventType": "type2",
+    "inputNumber": 5194786449814879,
+    "userNumber": 8195212975366181,
+    "userName": "Gwendolyn Hegmann"
+  },
+  {
+    "id": 68,
+    "date": "2024-05-27T12:46:50.802Z",
+    "branchName": "Suite 639",
+    "branchCode": 88,
+    "eventType": "type2",
+    "inputNumber": 5561040633190024,
+    "userNumber": 6565833849709254,
+    "userName": "Joann Davis"
+  },
+  {
+    "id": 69,
+    "date": "2023-11-20T14:25:49.428Z",
+    "branchName": "Suite 656",
+    "branchCode": 48,
+    "eventType": "type1",
+    "inputNumber": 3078870608251648,
+    "userNumber": 5735633469672145,
+    "userName": "Faye Spinka"
+  },
+  {
+    "id": 70,
+    "date": "2024-07-04T01:32:03.166Z",
+    "branchName": "Apt. 457",
+    "branchCode": 75,
+    "eventType": "type2",
+    "inputNumber": 7792881590996640,
+    "userNumber": 1613588956218999,
+    "userName": "Gabriel Cartwright"
+  },
+  {
+    "id": 71,
+    "date": "2024-07-19T06:59:36.338Z",
+    "branchName": "Suite 832",
+    "branchCode": 135,
+    "eventType": "type1",
+    "inputNumber": 7188936170607756,
+    "userNumber": 176924000187781,
+    "userName": "Juanita Emard"
+  },
+  {
+    "id": 72,
+    "date": "2024-01-03T12:34:27.030Z",
+    "branchName": "Apt. 442",
+    "branchCode": 59,
+    "eventType": "type1",
+    "inputNumber": 3038007360363705,
+    "userNumber": 3412639187827265,
+    "userName": "Nina Hintz"
+  },
+  {
+    "id": 73,
+    "date": "2024-02-26T18:58:13.887Z",
+    "branchName": "Apt. 827",
+    "branchCode": 46,
+    "eventType": "type2",
+    "inputNumber": 1651706738537967,
+    "userNumber": 939018100255492,
+    "userName": "Mrs. Maggie Ferry I"
+  },
+  {
+    "id": 74,
+    "date": "2024-06-18T15:46:42.670Z",
+    "branchName": "Suite 589",
+    "branchCode": 44,
+    "eventType": "type2",
+    "inputNumber": 7657011745540493,
+    "userNumber": 6428609445387849,
+    "userName": "Ed Goyette-Marquardt IV"
+  },
+  {
+    "id": 75,
+    "date": "2023-11-20T10:22:38.767Z",
+    "branchName": "Suite 421",
+    "branchCode": 35,
+    "eventType": "type3",
+    "inputNumber": 1555290292789184,
+    "userNumber": 7098928772365205,
+    "userName": "Ella Kuhlman"
+  },
+  {
+    "id": 76,
+    "date": "2024-08-12T10:49:23.377Z",
+    "branchName": "Suite 672",
+    "branchCode": 63,
+    "eventType": "type2",
+    "inputNumber": 1411433762709027,
+    "userNumber": 4738254601927516,
+    "userName": "Caroline Huel"
+  },
+  {
+    "id": 77,
+    "date": "2024-05-06T03:07:06.466Z",
+    "branchName": "Apt. 431",
+    "branchCode": 145,
+    "eventType": "type3",
+    "inputNumber": 4503512147271977,
+    "userNumber": 7968320976437899,
+    "userName": "Sam Erdman"
+  },
+  {
+    "id": 78,
+    "date": "2024-01-08T18:26:52.301Z",
+    "branchName": "Suite 956",
+    "branchCode": 112,
+    "eventType": "type3",
+    "inputNumber": 5387278023533028,
+    "userNumber": 7079676778595310,
+    "userName": "Dallas Aufderhar"
+  },
+  {
+    "id": 79,
+    "date": "2024-07-08T12:31:39.758Z",
+    "branchName": "Suite 212",
+    "branchCode": 45,
+    "eventType": "type1",
+    "inputNumber": 6970764370866986,
+    "userNumber": 66889655985469,
+    "userName": "Cassandra Hilll"
+  },
+  {
+    "id": 80,
+    "date": "2024-05-10T10:51:32.861Z",
+    "branchName": "Suite 239",
+    "branchCode": 150,
+    "eventType": "type1",
+    "inputNumber": 4756903245067078,
+    "userNumber": 6182472092272904,
+    "userName": "Fernando Weissnat"
+  },
+  {
+    "id": 81,
+    "date": "2024-06-18T15:06:47.069Z",
+    "branchName": "Apt. 819",
+    "branchCode": 12,
+    "eventType": "type2",
+    "inputNumber": 4701614909115200,
+    "userNumber": 8160980316024573,
+    "userName": "Lula Gusikowski"
+  },
+  {
+    "id": 82,
+    "date": "2024-01-09T12:59:04.194Z",
+    "branchName": "Suite 323",
+    "branchCode": 122,
+    "eventType": "type3",
+    "inputNumber": 2969041451498146,
+    "userNumber": 7034490925045639,
+    "userName": "Ms. Tiffany Wiegand"
+  },
+  {
+    "id": 83,
+    "date": "2024-02-18T06:04:50.639Z",
+    "branchName": "Suite 685",
+    "branchCode": 15,
+    "eventType": "type2",
+    "inputNumber": 6356965450349915,
+    "userNumber": 4935241278350830,
+    "userName": "Dr. Joshua Beer"
+  },
+  {
+    "id": 84,
+    "date": "2024-08-09T04:59:44.225Z",
+    "branchName": "Suite 832",
+    "branchCode": 11,
+    "eventType": "type3",
+    "inputNumber": 5607910887768629,
+    "userNumber": 4097527192768827,
+    "userName": "Clyde Bayer III"
+  },
+  {
+    "id": 85,
+    "date": "2024-05-05T13:44:52.054Z",
+    "branchName": "Suite 888",
+    "branchCode": 32,
+    "eventType": "type2",
+    "inputNumber": 2641970948917370,
+    "userNumber": 8101192970373355,
+    "userName": "Sonya Marvin"
+  },
+  {
+    "id": 86,
+    "date": "2023-10-18T10:02:56.764Z",
+    "branchName": "Apt. 167",
+    "branchCode": 106,
+    "eventType": "type3",
+    "inputNumber": 1052582439909827,
+    "userNumber": 4773051581803589,
+    "userName": "Gary Carroll"
+  },
+  {
+    "id": 87,
+    "date": "2023-10-12T00:28:29.934Z",
+    "branchName": "Suite 278",
+    "branchCode": 80,
+    "eventType": "type1",
+    "inputNumber": 3130147243422916,
+    "userNumber": 2919170619101251,
+    "userName": "Kathy Carroll"
+  },
+  {
+    "id": 88,
+    "date": "2023-12-14T00:12:42.350Z",
+    "branchName": "Apt. 994",
+    "branchCode": 50,
+    "eventType": "type1",
+    "inputNumber": 4989772032822856,
+    "userNumber": 6324505104649071,
+    "userName": "Monique Batz I"
+  },
+  {
+    "id": 89,
+    "date": "2024-07-27T04:45:21.819Z",
+    "branchName": "Suite 786",
+    "branchCode": 57,
+    "eventType": "type2",
+    "inputNumber": 7656724555254189,
+    "userNumber": 6927829847737800,
+    "userName": "Henry Borer"
+  },
+  {
+    "id": 90,
+    "date": "2024-05-13T14:23:52.340Z",
+    "branchName": "Suite 268",
+    "branchCode": 85,
+    "eventType": "type3",
+    "inputNumber": 4324444382686930,
+    "userNumber": 4338821366278294,
+    "userName": "Regina Walker"
+  },
+  {
+    "id": 91,
+    "date": "2024-07-07T01:22:50.243Z",
+    "branchName": "Suite 237",
+    "branchCode": 123,
+    "eventType": "type2",
+    "inputNumber": 6605045256950213,
+    "userNumber": 7406768982504979,
+    "userName": "Jim Pouros"
+  },
+  {
+    "id": 92,
+    "date": "2024-05-28T05:58:13.664Z",
+    "branchName": "Apt. 942",
+    "branchCode": 43,
+    "eventType": "type3",
+    "inputNumber": 3219805570715106,
+    "userNumber": 1412449633623474,
+    "userName": "Gary Zulauf"
+  },
+  {
+    "id": 93,
+    "date": "2024-02-26T14:49:14.301Z",
+    "branchName": "Apt. 150",
+    "branchCode": 70,
+    "eventType": "type2",
+    "inputNumber": 4803641901260545,
+    "userNumber": 5308493148341263,
+    "userName": "Fannie Schuster"
+  },
+  {
+    "id": 94,
+    "date": "2024-02-03T17:49:26.248Z",
+    "branchName": "Apt. 126",
+    "branchCode": 143,
+    "eventType": "type2",
+    "inputNumber": 4262312421099972,
+    "userNumber": 3645267595826526,
+    "userName": "Shannon Jacobson"
+  },
+  {
+    "id": 95,
+    "date": "2024-04-15T01:58:32.607Z",
+    "branchName": "Apt. 252",
+    "branchCode": 34,
+    "eventType": "type3",
+    "inputNumber": 5989930692320392,
+    "userNumber": 6474612473088598,
+    "userName": "Fredrick Volkman"
+  },
+  {
+    "id": 96,
+    "date": "2024-07-05T17:47:02.186Z",
+    "branchName": "Apt. 566",
+    "branchCode": 106,
+    "eventType": "type2",
+    "inputNumber": 4889149992008171,
+    "userNumber": 4845049186028811,
+    "userName": "Tanya Hartmann"
+  },
+  {
+    "id": 97,
+    "date": "2024-06-26T10:34:21.807Z",
+    "branchName": "Apt. 463",
+    "branchCode": 125,
+    "eventType": "type3",
+    "inputNumber": 4587122065898727,
+    "userNumber": 2888670894513533,
+    "userName": "Laurie Will"
+  },
+  {
+    "id": 98,
+    "date": "2023-11-29T06:35:38.280Z",
+    "branchName": "Suite 354",
+    "branchCode": 48,
+    "eventType": "type2",
+    "inputNumber": 1671773909970235,
+    "userNumber": 8817359550698068,
+    "userName": "Wendell Jast IV"
+  },
+  {
+    "id": 99,
+    "date": "2024-04-12T19:12:52.425Z",
+    "branchName": "Apt. 790",
+    "branchCode": 83,
+    "eventType": "type2",
+    "inputNumber": 4546060117053110,
+    "userNumber": 5882967807576811,
+    "userName": "Neal Considine-Bins"
+  },
+  {
+    "id": 100,
+    "date": "2023-09-05T21:13:59.162Z",
+    "branchName": "Apt. 736",
+    "branchCode": 121,
+    "eventType": "type3",
+    "inputNumber": 8618512939526289,
+    "userNumber": 2436571939414414,
+    "userName": "Terence Kessler"
+  },
+  {
+    "id": 101,
+    "date": "2023-10-28T22:34:30.711Z",
+    "branchName": "Suite 477",
+    "branchCode": 103,
+    "eventType": "type1",
+    "inputNumber": 3651558504469155,
+    "userNumber": 2244695198233796,
+    "userName": "Maria Schultz"
+  }
+]

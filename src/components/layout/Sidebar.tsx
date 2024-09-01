@@ -4,14 +4,7 @@ import { IRoute } from "@/Routes";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
 import clsx from "clsx";
 import { Link } from "react-router-dom";
-import DashboardIcon from "@mui/icons-material/Dashboard";
-import GroupIcon from "@mui/icons-material/Group";
-import AccountBalanceWalletIcon from "@mui/icons-material/AccountBalanceWallet";
-import CurrencyBitcoinIcon from "@mui/icons-material/CurrencyBitcoin";
-import FolderSharedIcon from "@mui/icons-material/FolderShared";
-import DiamondIcon from "@mui/icons-material/Diamond";
-import HandymanIcon from "@mui/icons-material/Handyman";
-import TranslateIcon from "@mui/icons-material/Translate";
+
 import ConfirmationNumberIcon from "@mui/icons-material/ConfirmationNumber";
 interface SideBarRoutesRenderProps {
   routes: IRoute[];
@@ -21,56 +14,8 @@ interface SideBarRoutesRenderProps {
 
 const sidebarRoutes: IRoute[] = [
   {
-    title: "Dashboard",
+    title: "events",
     path: "/",
-    subRoutes: [],
-    icon: <DashboardIcon />,
-  },
-  {
-    title: "User",
-    path: "/users",
-    subRoutes: [],
-    icon: <GroupIcon />,
-  },
-  {
-    title: "Wallet",
-    path: "/wallet",
-    subRoutes: [],
-    icon: <AccountBalanceWalletIcon />,
-  },
-  {
-    title: "Orderbook",
-    path: "/orderbook",
-    subRoutes: [],
-    icon: <CurrencyBitcoinIcon />,
-  },
-  {
-    title: "Market Maker",
-    path: "/mm",
-    subRoutes: [],
-    icon: <HandymanIcon />,
-  },
-  {
-    title: "KYC",
-    path: "/kyc",
-    subRoutes: [],
-    icon: <FolderSharedIcon />,
-  },
-  {
-    title: "VIP",
-    path: "/vip",
-    subRoutes: [],
-    icon: <DiamondIcon />,
-  },
-  {
-    title: "Language",
-    path: "/language",
-    subRoutes: [],
-    icon: <TranslateIcon />,
-  },
-  {
-    title: "Tickets",
-    path: "/tickets",
     subRoutes: [],
     icon: <ConfirmationNumberIcon />,
   },

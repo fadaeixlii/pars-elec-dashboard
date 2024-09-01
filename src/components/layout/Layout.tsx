@@ -9,14 +9,12 @@ import {
   styled,
 } from "@mui/material";
 import MuiAppBar, { AppBarProps as MuiAppBarProps } from "@mui/material/AppBar";
-import React, { useEffect } from "react";
+import React from "react";
 import MenuIcon from "@mui/icons-material/Menu";
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
 import { useLocation, Outlet } from "react-router-dom";
 import MuiDrawer from "@mui/material/Drawer";
 import { SideBarItems } from "./Sidebar";
-import Profile from "./Profile";
-import { useGetUserAssetsHook } from "@/store/Wallet/QueryHooks/useGetUserAssetsHooks";
 type Props = {
   children: React.ReactNode;
 };
@@ -81,14 +79,6 @@ const Layout = (props: Props) => {
 
   const location = useLocation();
 
-  const { fetchUserAssetsCallback } = useGetUserAssetsHook();
-  useEffect(() => {
-    fetchUserAssetsCallback({
-      hideSmallAsset: false,
-      walletType: null,
-    });
-  }, []);
-
   return (
     <Box sx={{ display: "flex" }}>
       <CssBaseline />
@@ -110,7 +100,6 @@ const Layout = (props: Props) => {
             {/* title of page  */}
             Dashboard
           </Typography>
-          <Profile />
         </Toolbar>
       </AppBar>
       <Drawer variant="permanent" open={open}>

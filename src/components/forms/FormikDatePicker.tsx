@@ -1,7 +1,9 @@
 import React from "react";
 import { useField } from "formik";
 import { TextFieldProps } from "@mui/material";
-import { DatePicker } from "@mui/x-date-pickers/DatePicker";
+import { DateTimePicker } from "@mui/x-date-pickers/DateTimePicker";
+import { LocalizationProvider } from "@mui/x-date-pickers/LocalizationProvider";
+import { AdapterMomentJalaali } from "@mui/x-date-pickers/AdapterMomentJalaali";
 
 type FormikDatePickerProps = { name: string; label: string } & TextFieldProps;
 
@@ -9,15 +11,19 @@ const FormikDatePicker: React.FC<FormikDatePickerProps> = ({
   label,
   ...props
 }) => {
-  const [field, , helpers] = useField(props.name);
+  const [, , helpers] = useField(props.name);
 
   return (
-    <DatePicker
-      {...field}
-      label={label}
-      value={field.value}
-      onChange={(value) => helpers.setValue(value)}
-    />
+    <LocalizationProvider dateAdapter={AdapterMomentJalaali}>
+      <DateTimePicker
+        label={label}
+        onChange={(value: any) => {
+          console.log(value);
+          console.log();
+          helpers.setValue(new Date(value));
+        }}
+      />
+    </LocalizationProvider>
   );
 };
 

@@ -17,6 +17,7 @@ import Tooltip from "@mui/material/Tooltip";
 import { visuallyHidden } from "@mui/utils";
 import { maskId } from "@/utils/InfoMast";
 import { CircularProgress, Pagination, Stack } from "@mui/material";
+import useDateUtils from "@/utils/Date";
 
 type Data = {
   [key: string]: string | React.ReactNode | number;
@@ -79,6 +80,7 @@ interface HeadCell {
   id: keyof Data;
   label: string;
   numeric: boolean;
+  sortValue?: number | string;
 }
 
 interface EnhancedTableHeadProps {
@@ -94,7 +96,7 @@ interface EnhancedTableHeadProps {
 }
 
 function EnhancedTableHead(props: EnhancedTableHeadProps) {
-  const { checkBox, order, orderBy, rowCount, headCells } = props;
+  const { checkBox, order, orderBy, headCells } = props;
   const createSortHandler =
     (property: string) => (event: React.MouseEvent<unknown>) => {
       if (checkBox) checkBox.onRequestSort(event, property);
@@ -103,7 +105,7 @@ function EnhancedTableHead(props: EnhancedTableHeadProps) {
   return (
     <TableHead>
       <TableRow>
-        {checkBox && (
+        {/* {checkBox && (
           <TableCell padding="checkbox">
             <Checkbox
               color="primary"
@@ -117,12 +119,12 @@ function EnhancedTableHead(props: EnhancedTableHeadProps) {
               }}
             />
           </TableCell>
-        )}
+        )} */}
         {headCells.map((headCell) => (
           <TableCell
             key={headCell.id}
             align={headCell.numeric ? "right" : "left"}
-            padding={headCell.disablePadding ? "checkbox" : "normal"}
+            padding={"normal"}
             className="text-nowrap"
             sortDirection={orderBy === headCell.id ? order : false}
           >
@@ -333,8 +335,10 @@ export default function EnhancedTable(props: EnhancedTableProps) {
 
   const visibleRows = React.useMemo(
     () => stableSort(rows, getComparator(order, orderBy)),
-    [order, orderBy, pagination, rows]
+    [order, orderBy, rows]
   );
+
+  const { formatDateWithTime } = useDateUtils();
 
   return (
     <Box sx={{ width: "100%" }}>
@@ -381,21 +385,15 @@ export default function EnhancedTable(props: EnhancedTableProps) {
                 order={order}
                 orderBy={orderBy}
                 rowCount={rows.length}
-                checkBox={
-                  checkBox
-                    ? {
-                        numSelected: selected.length,
-                        onRequestSort: (e, p) => {
-                          handleRequestSort(e, p);
-                          checkBox.onRequestSort(e, p);
-                        },
-                        onSelectAllClick: (e) => {
-                          handleSelectAllClick(e);
-                          checkBox.onSelectAllClick(e);
-                        },
-                      }
-                    : null
-                }
+                checkBox={{
+                  numSelected: selected.length,
+                  onRequestSort: (e, p) => {
+                    handleRequestSort(e, p);
+                  },
+                  onSelectAllClick: (e) => {
+                    handleSelectAllClick(e);
+                  },
+                }}
                 headCells={headCells}
               />
               <TableBody>
@@ -439,6 +437,10 @@ export default function EnhancedTable(props: EnhancedTableProps) {
                                 ) as unknown as React.ReactElement
                               }
                             />
+                          </TableCell>
+                        ) : head.id === "date" ? (
+                          <TableCell key={head.id} className="text-nowrap">
+                            {formatDateWithTime(new Date(row[head.id] as any))}
                           </TableCell>
                         ) : (
                           <TableCell key={head.id} className="text-nowrap">

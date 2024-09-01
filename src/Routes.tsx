@@ -1,6 +1,5 @@
 import { Link, type PathRouteProps } from "react-router-dom";
 import Layout from "./components/layout/Layout";
-import { AuthLayout } from "./components/layout/AuthLayout";
 import ListItemButton from "@mui/material/ListItemButton";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
@@ -8,6 +7,7 @@ import ListItemText from "@mui/material/ListItemText";
 import AssignmentIcon from "@mui/icons-material/Assignment";
 import React from "react";
 import ProtectedRoutes from "./components/utils/ProtectedRoute";
+import { EventsPage } from "./page/events";
 
 export interface IRoute extends PathRouteProps {
   subRoutes: IRoute[];
@@ -18,35 +18,38 @@ export interface IRoute extends PathRouteProps {
 export const routes: IRoute[] = [
   {
     path: "/",
-    title: "Dashboard",
+    title: "events",
     element: (
       <ProtectedRoutes>
-        <Layout>{"<DashboardPage />"}</Layout>
+        <Layout>
+          <EventsPage />
+        </Layout>
       </ProtectedRoutes>
     ),
-    subRoutes: [
-      {
-        path: "users/:selectedUserId?",
-        title: "Users",
-        element: "<UsersPage />",
-        subRoutes: [],
-      },
-    ],
+    subRoutes: [],
+    // subRoutes: [
+    //   {
+    //     path: "users/:selectedUserId?",
+    //     title: "Users",
+    //     element: "<UsersPage />",
+    //     subRoutes: [],
+    //   },
+    // ],
   },
 
-  {
-    path: "/auth",
-    title: "auth",
-    element: <AuthLayout />,
-    subRoutes: [
-      {
-        path: "sign-in",
-        title: "sign-in",
-        element: "<SignIn />",
-        subRoutes: [],
-      },
-    ],
-  },
+  // {
+  //   path: "/auth",
+  //   title: "auth",
+  //   element: <AuthLayout />,
+  //   subRoutes: [
+  //     {
+  //       path: "sign-in",
+  //       title: "sign-in",
+  //       element: "<SignIn />",
+  //       subRoutes: [],
+  //     },
+  //   ],
+  // },
 ];
 
 export const sideBarRoutesRender = (
